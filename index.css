@@ -72,13 +72,14 @@ section div
 {
     background-color: #2a2634;
     padding: 32px;
-    padding-top: 24px;
+    padding-top: 15px;
     border-radius: 8px;
 }
 
 section h2
 {
     letter-spacing: -0.47px;
+    text-align: center;
 }
 
 section p
